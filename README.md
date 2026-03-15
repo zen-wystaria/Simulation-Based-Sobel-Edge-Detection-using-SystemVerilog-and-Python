@@ -16,7 +16,7 @@ Image → Grayscale Matrix → RTL Sobel Filter → Edge-Detected Image
 
 ## 🖼️ Example Output
 
-| Input Image (90×90) | Edge Detected Output (90×90) (Scaled in matplotlib for visual clarity)|
+| Input Image (90×90) | Edge Detected Output (90×90) |
 |:---:|:---:|
 | ![Input](/lena_crop.png) | ![Output](/lena_edge_detected_output.png) |
 
